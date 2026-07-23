@@ -38,3 +38,7 @@ function mul(a:number, b:number){
     return a*b;
 }
 console.log(mul(2,5));
+function sum(a:number,b:number){
+    return a+b;
+}
+console.log(sum(10,20));
