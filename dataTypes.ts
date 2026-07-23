@@ -33,3 +33,8 @@ for(let j of empIDs){
 for(let k in address){
     console.log(k +":"+address[k]);
 }
+
+function sum(a:number,b:number){
+    return a+b;
+}
+console.log(sum(10,20));
